@@ -1,0 +1,11 @@
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.AssemblyReference.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.SuggestedBindingRedirects.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
+F:\MATERI\S3\PEMOGRAMAN LANJUT\P3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
